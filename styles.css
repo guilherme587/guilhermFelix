@@ -1,7 +1,37 @@
 body{
 	font-family: Arial, Helvetica, sans-sarif;
-	background-color: #80ED99;
+	background-color: #38A3A5;
 }
 h1{
 	color: #22577A;
+}
+p{
+	color: #38A3A5;
+	background: #80ED99;
+	text-align: justify;
+	margin: 10px;
+	border-left: 10px solid #22577A;
+	padding: 18px;
+}
+#caixa {
+background: rgb(230, 230, 230);
+width: 89%;
+height: 400px;
+margin: auto;
+margin-top: 2px;
+padding: 30px;
+}
+#cabeca{
+border-top: 10px solid #22577A;
+background: rgb(230, 230, 230);
+width: 89%;
+height: 30px;
+margin: auto;
+padding: 30px;
+}
+img, p{
+	float: left;
+}
+img{
+	border: 1px solid #22577A;
 }
